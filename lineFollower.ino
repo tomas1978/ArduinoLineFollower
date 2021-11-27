@@ -1,3 +1,5 @@
+#include<Servo.h>
+
 void setup() {
   Serial.begin(9600);
 }
