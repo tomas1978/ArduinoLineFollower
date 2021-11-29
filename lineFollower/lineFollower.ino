@@ -1,5 +1,7 @@
 #include<Servo.h>
 
+Servo carServo;
+
 void setup() {
   Serial.begin(9600);
 }
